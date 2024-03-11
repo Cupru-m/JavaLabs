@@ -8,13 +8,12 @@ This is a basic REST API application built using [Spring Boot](https://spring.io
 
 ## Features
 
-<<<<<<< HEAD
+ HEAD
 - Get currency conversionHistory with updated rates.
 - Store conversionHistory data in a database.
 =======
 -Get info about all books in database
 -Finde info by title
->>>>>>> 06695abd8d9e94056a0385826ec867cb53027d34
 
 ## Technologies Used
 
